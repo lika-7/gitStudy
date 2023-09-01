@@ -1,5 +1,5 @@
-##readme##
+# 깃 사용법 학습
 
-maded by lika-7
-ㅇㅇㅇ
-clone merge test
+## 목표
+1. 깃과 깃허브의 개념 학습
+2. 소스트리의 GUI 이해 밑 사용법 학습
